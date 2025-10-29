@@ -1,4 +1,6 @@
-GitHub is a cloud-based platform where developers can store, manage, and collaborate on their code projects. Think of it as Google Docs, but for software development.
+I am Namgay D wangchuk from CSE-AIML-C.
+
+where we know GitHub is a cloud-based platform where developers can store, manage, and collaborate on their code projects. Think of it as Google Docs, but for software development.
 
 It uses a version control system called Git. "Version control" means it tracks every single change made to the code, who made it, and when. This allows multiple people to work on the same project at the same time without overwriting each other's work.
 
